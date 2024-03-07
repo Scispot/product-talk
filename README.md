@@ -2,20 +2,20 @@
 
 In this repository you will find links to our documentation, training videos, and a discussion board. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
-Please see our community articles and training videos here.
+Check out our community articles and training videos [here](https://github.com/Scispot/product-talk/discussions/categories/scispot-education).
 
 ## Product Feedback
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Scispot product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
 
-- General Feedback
-- Dashboard
-- Labspaces
-- Template Library
-- Labsheets
-- Analytics
-- Request Manager
-- Scispot APIs
+- [General Feedback](https://github.com/Scispot/product-talk/discussions/categories/general-feedback)
+- [Dashboard](https://github.com/Scispot/product-talk/discussions/categories/dashboard)
+- [Labspaces](https://github.com/Scispot/product-talk/discussions/categories/labspaces)
+- [Template Library](https://github.com/Scispot/product-talk/discussions/categories/template-library)
+- [Labsheets](https://github.com/Scispot/product-talk/discussions/categories/labsheets)
+- [Analytics](https://github.com/Scispot/product-talk/discussions/categories/analytics)
+- [Request Manager](https://github.com/Scispot/product-talk/discussions/categories/request-manager)
+- [Scispot APIs](https://github.com/Scispot/product-talk/discussions/categories/scispot-apis)
 
 ## Discussions Categories
 
