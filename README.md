@@ -2,7 +2,7 @@
 
 In this repository you will find links to our documentation, training videos, and a discussion board. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
-Check out our community articles and training videos [here](https://github.com/Scispot/product-talk/discussions/categories/scispot-education).
+Check out our community articles and training videos [here](https://community.scispot.com/en/).
 
 ## Product Feedback
 
