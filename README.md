@@ -13,7 +13,7 @@ These discussions are where you can share suggestions for how the products shoul
 | [General Feedback](https://github.com/Scispot/product-talk/discussions/categories/general-feedback) | [Scispot.com](https://www.scispot.com/) |
 | [Dashboard](https://github.com/Scispot/product-talk/discussions/categories/dashboard) | Landing page; track activities, recents, experiment progress and your chain of custody all in one page. |
 | [Labspaces + Template Library](https://github.com/Scispot/product-talk/discussions/categories/labspaces-template-library) | Labspaces are modern alternative Electronic Lab Notebook. |
-| [Labsheets + Manifests + Location Manager](https://github.com/Scispot/product-talk/discussions/categories/labsheets) | Labsheets are modern alternative Lab Information Management System. |
+| [Labsheets + Manifests + Location Manager](https://github.com/Scispot/product-talk/discussions/categories/labsheets-manifests-location-manager) | Labsheets are modern alternative Lab Information Management System. |
 | [Analytics](https://github.com/Scispot/product-talk/discussions/categories/analytics) | Slice and dice your Labsheets data using GUI (Graphical User Interface) and SQL. |
 | [Scispot APIs](https://github.com/Scispot/product-talk/discussions/categories/scispot-apis) | For computational biologist to connect their workflows with wet lab using APIs and JupyterHub. |
 
